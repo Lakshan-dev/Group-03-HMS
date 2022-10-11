@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="289de151-8455-4a07-872f-dcccc95b1177" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/HotelManagement/Entities" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="289de151-8455-4a07-872f-dcccc95b1177" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="289de151-8455-4a07-872f-dcccc95b1177" />
+    </option>
+  </component>
+</project>
